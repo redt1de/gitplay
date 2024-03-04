@@ -1,2 +1,2 @@
 # gitplay
-blah blah
+this is the main branch readme
